@@ -1,2 +1,2 @@
-zfanswer/dify-on-dingtalk:latest
+rockchin/langbot:latest
 

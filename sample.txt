@@ -1,1 +1,1 @@
-zfanswer/dify-on-dingtalk:latest
+xprobe/xinference:v1.12.0

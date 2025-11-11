@@ -1,2 +1,1 @@
-langgenius/dify-web:1.8.1
-langgenius/dify-plugin-daemon:0.2.0-local
+xprobe/xinference:latest

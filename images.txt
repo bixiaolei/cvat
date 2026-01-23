@@ -1,1 +1,1 @@
-oceanbase/seekdb:latest
+busybox:latest

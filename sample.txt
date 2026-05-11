@@ -1,7 +1,5 @@
-langgenius/dify-api:1.13.3
-langgenius/dify-web:1.13.3
-langgenius/dify-plugin-daemon:0.5.3-local
-langgenius/dify-sandbox:0.2.14
-ubuntu/squid:latest
-nginx:latest
+pgvector/pgvector:pg18
+neo4j:5-community
+vllm/vllm-openai:latest
+qdrant/qdrant:v1.11.4
 

@@ -1,4 +1,1 @@
-pgvector/pgvector:pg18
-neo4j:5-community
-vllm/vllm-openai:latest
-qdrant/qdrant:v1.11.4
+memgraph/memgraph:latest
